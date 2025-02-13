@@ -19,6 +19,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <h2 style="text-align: center;">🚀 Acerca de Mí</h2>
 
 
