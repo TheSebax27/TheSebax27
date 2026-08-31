@@ -1,166 +1,92 @@
+<h1 align="center">Hi there, I'm Juan Sebastián Silva Piñeros 👋</h1>
+<h3 align="center">Full Stack Developer · QA · Bogotá, Colombia 🇨🇴</h3>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-    <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-  </p>
-  <h1 align="center">Bienvenido/a 👋, Yo soy Sebastian Silva </h1>
-
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h2 style="text-align: center;">🚀 Acerca de Mí</h2>
-
-
-
-
-<p style="text-align: center;" style="font-size: 18px;">
-    Soy <strong>Juan Sebastián Silva Piñeros</strong>, un apasionado <strong>Desarrollador Full Stack</strong> colombiano.<br>  
-    Me especializo en la creación de soluciones innovadoras y eficientes, combinando <strong>Frontend</strong> y <strong>Backend</strong>  
-    para desarrollar aplicaciones sólidas y escalables. 🚀
+  <a href="https://www.linkedin.com/in/juan-sebastian-silva-pi%C3%B1eros-7672ab313">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:silvasebastian2703@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/573011708855">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://github.com/TheSebax27">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<hr style="width: 60%; border: 1px solid #ddd;">
-
-<h3 align="center">📚 Formación Académica</h3>
 <p align="center">
-    🎓 <strong>Contaduría Pública</strong> - SENA  
-    <br>💻 <strong>Análisis y Desarrollo de Software</strong> - SENA  
-    <br>🖥️ <strong>Ingeniería en Sistemas</strong> - UNAD  
-    <br>🐘 <strong>Programador en PHP</strong> - Politécnico de Colombia  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;QA+%2F+Software+Quality;Always+learning+new+tech;C%23+%C2%B7+React+%C2%B7+.NET+%C2%B7+SQL+Server&font=Fira+Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG"/>
 </p>
 
-<hr style="width: 60%; border: 1px solid #ddd;">
+---
 
-<h3 align="center">💡 Sobre Mí</h3>
-<p align="center" style="font-size: 16px;">
-    🚀 Me encanta aprender nuevas tecnologías, optimizar procesos y contribuir a la comunidad de desarrollo  
-    con código limpio y eficiente.  
-</p>
+### 🧑‍💻 About me · Sobre mí
 
-<p align="center" style="font-size: 16px;">
-    🎮 En mi tiempo libre, exploro tendencias en desarrollo, mejoro mis habilidades en <strong>ciberseguridad</strong>,  
-    y disfruto de la música y los videojuegos. 🎶  
-</p>
+**EN** — Full Stack Developer with hands-on experience across web, desktop, and QA. I build with **C#, .NET Core, React, TypeScript** and relational databases (**SQL Server, MySQL, Supabase**). I've delivered 15+ software projects and worked on a computer-vision system that translates sign language into text and speech, focused on digital accessibility.
 
-<hr style="width: 60%; border: 1px solid #ddd;">
+**ES** — Desarrollador Full Stack con experiencia práctica en desarrollo web, de escritorio y aseguramiento de calidad (QA). Trabajo con **C#, .NET Core, React, TypeScript** y bases de datos relacionales (**SQL Server, MySQL, Supabase**). He entregado más de 15 proyectos de software y desarrollé un sistema de visión por computadora que traduce lengua de señas a texto y voz, con enfoque en accesibilidad digital.
 
+---
 
+### 🎓 Education · Formación
 
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a> 
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a> 
-</p>
+- 🖥️ **Ingeniería de Sistemas** — UNAD *(in progress · expected Dec 2027)*
+- 💻 **Tecnólogo en Análisis y Desarrollo de Software** — SENA *(2023–2025)*
+- 🐘 **Programación en PHP** — Politécnico de Colombia *(2024)*
+- ✅ **Scrum Fundamentals Certified** — SCRUMstudy *(2024)*
 
+---
 
+### 🛠️ Tech Stack
 
-
-<hr width="36%" >
-
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheSebax27&show_icons=true&theme=dark&locale=en&layout=compact" alt="TheSebax27" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheSebax27&show_icons=true&theme=dark&locale=en" alt="TheSebax27" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSebax27&theme=dark" alt="TheSebax27" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 <p align="left">
-<a href="https://youtube.com/@buitremortal1553?si=48DnqnOg0B51w0cX" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/juan.sebastian.22?igsh=NDNocmtodmc3N2Iy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-
-<a href="https://x.com/juansesilvapi15?t=FzpUcsoxw72KntT6UzZKOA&s=09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
-</a>
-
-<a href="https://wa.me/3011708855" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-</a>
-
-
-<a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-
-
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GIF HEADER -->
+---
 
+### 📌 Featured Project · Proyecto Destacado
+
+**Sign Language → Text & Speech Translator** — a computer-vision system (Python, OpenCV, MediaPipe, TensorFlow/Keras) that recognizes sign language gestures and converts them into text and audio, built for digital accessibility and inclusion.
+*Traductor de Lengua de Señas a Texto y Voz — sistema de visión por computadora enfocado en accesibilidad digital.*
+
+> 💡 *Pin this repo at the top of your profile so it's the first thing recruiters see — go to your GitHub profile → Customize your pins.*
+
+---
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=TheSebax27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSebax27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSebax27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheSebax27&label=Profile+views&color=58A6FF&style=flat-square" alt="Profile views"/>
+</p>
